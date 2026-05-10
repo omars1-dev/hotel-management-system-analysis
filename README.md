@@ -1,6 +1,6 @@
-🏨 Al Anwar Hotel Management System – System Analysis & Design
+ Al Anwar Hotel Management System – System Analysis & Design
 
-📌 Overview
+ Overview
 
 This project presents a comprehensive System Analysis and Design for Al Anwar Hotel, developed based on real-world observation, interviews, and operational analysis.
 
@@ -8,7 +8,7 @@ The goal is to transform a legacy, inefficient system into a modern, secure, and
 
 ---
 
-🎯 Objectives
+ Objectives
 
 - Improve system performance (response time < 3 seconds)
 - Enhance security using HTTPS and industry standards
@@ -19,7 +19,7 @@ The goal is to transform a legacy, inefficient system into a modern, secure, and
 
 ---
 
-🔍 Current System Issues
+ Current System Issues
 
 The analysis identified 15 major problems, including:
 
@@ -34,7 +34,7 @@ The analysis identified 15 major problems, including:
 
 ---
 
-🧠 Requirements Analysis
+ Requirements Analysis
 
 📊 Summary
 
@@ -78,9 +78,9 @@ The analysis identified 15 major problems, including:
 
 ---
 
-👥 System Roles
+ System Roles
 
-🧑‍💼 Reception Staff
+ Reception Staff
 
 - Register guests
 - Create reservations
@@ -88,7 +88,7 @@ The analysis identified 15 major problems, including:
 - Search guest data
 - View room status
 
-🧑‍💻 Hotel Manager
+ Hotel Manager
 
 - Manage employees
 - Manage rooms
@@ -97,7 +97,7 @@ The analysis identified 15 major problems, including:
 
 ---
 
-🗺️ System Diagrams
+ System Diagrams
 
 🔷 Context Diagram
 
